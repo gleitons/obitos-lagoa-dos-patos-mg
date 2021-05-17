@@ -1,21 +1,21 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Óbitos em Lagoa dos Patos MG",
+  "url": "https://obitos.netlify.app/",
+  "language": "pt/BR",
+  "description": "Lista de Óbitos em Lagoa dos Patos MG, é apenas uma homenagem para aqueles que se foram nunca serem esquecidos",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Homenagem a aqueles que se foram que tinham Lagoa dos Patos no coração",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://obitos.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Uma pessoa Desconhecida chamada Delphin",
+    "email": "obitos.lagoa@gmail.com",
+    "url": "https://obitos.netlify.app/"
   }
 }
